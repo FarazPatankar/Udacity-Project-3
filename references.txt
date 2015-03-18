@@ -1,0 +1,9 @@
+List of references :
+1) Udacity Style Guide
+2) Wikipedia
+3) Udacity Forums
+4) Github
+5) Stack Overflow
+6) Office Hours
+7) r/gamedev sub and their Wiki
+8) Google
