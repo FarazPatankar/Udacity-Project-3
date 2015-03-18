@@ -2,7 +2,11 @@ README
 
 Summary : The game is a clone of a well known game called Frogger.
 
-How to Play : Download all the files and then open index.html in a broswer of your choice.
+How to Play :
+
+1) Download all the files and then open index.html in a broswer of your choice.
+
+2) Visit http://farazpatankar.github.io/Udacity-Project-3/ and play.
 
 Controls :
 	UP ARROW : Moves the player forward
