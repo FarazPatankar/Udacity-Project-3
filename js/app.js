@@ -13,7 +13,7 @@ var Enemy = function(x,y) {
     //Enemy position coordinates and enemy speed
     this.x = x;
     this.y = y;
-    this.speed = Math.floor((Math.random() * 200) + 100);
+    this.speed = Math.floor((Math.random() * 200) + 500);
 };
 
 // Update the enemy's position, required method for game
